@@ -1,0 +1,23 @@
+﻿{
+    "topbar": {
+        "title": "Vie et Endurance",
+        "content": "Montre la vie que vous possedez. Elle baissera à chaque fois que vous recevrez des dégats.<br />L'endurance est représentée en dessous. Elle diminura à chaque fois que vous effecturé une action.<br /><span style='color: #C4561E'>L'endurance peut être régénrée en consommant de la nourriture. La vie peut être régénré selon votre satiété ou près des feux de camp.</span>"
+    },
+    "toolbar": {
+        "title": "Barre de raccourcis",
+        "content": "Ceci est la barre de raccourcis. Vous pouvez y mettre toutes les actions ou objets que vous souhaitez. Pour l'enlever, glissez la en dehors de la barre."
+    },
+    "craft": {
+        "title": "Fenêtre de fabrication",
+        "content": "Tous les objets peuvent être fabriqué via cette fenêtre. Comencez par creer vos outils primitifs pour couper des arbres ou chasser des animaux.<br /><span style='color: #C4561E'>Toutes les actions de récolte sont plus rapide avec les outils adaptés.</span>"
+    },
+    "build": {
+        "title": "Fenêtre de construction",
+        "content": "Construction. Récoltez desmatériaux pour construire un feu de camp, pour cuire de la viande, et votre premier Dominium pour commencer à construire votre première maison.<br /><span style='color: #C4561E'>Dominium needed to claim your land and bed can be used to set resurrection point.</span>"
+    },
+    "controls": {
+        "prev": "<i class='fa fa-arrow-left'></i> Précédent",
+        "next": "Suivant <i class='fa fa-arrow-right'></i>",
+        "endTour": " <i class='fa fa-check'></i> Terminé"
+    }
+}

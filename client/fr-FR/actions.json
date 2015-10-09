@@ -1,0 +1,57 @@
+{
+    "stay": {
+        "name": "Attaque multiple",
+        "description": "Permet d'attaquer avec une arme sans avoir à cibler des cible particulière, utile pour endommager les bâtiments par exemple. Bouton SHIFT"
+    },
+    "craft": {
+        "name": "Fabriquer",
+        "description": "Fênetre de création d'objets"
+    },
+    "build": {
+        "name": "Construire",
+        "description": "Fênetre de construction"
+    },
+    "suicide": {
+        "name": "Se suicider",
+        "description": "A utiliser si votre personnage est coincé"
+    },
+    "dress": {
+        "name": "Equipement",
+        "description": ""
+    },
+    "undress": {
+        "name": "Désarmer",
+        "description": ""
+    },
+    "eat": {
+        "name": "Manger",
+        "description": ""
+    },
+    "use": {
+        "name": "Utiliser",
+        "description": ""
+    },
+    "free": {
+        "name": "Relâcher",
+        "description": ""
+    },
+    "split": {
+        "name": "Séparer",
+        "description": ""
+    },
+    "bandage": {
+        "name": "Bandage"
+    },
+    "demolish": {
+        "name": "Détruire",
+        "description": "Démolir vos propre bâtiments"
+    },
+    "repair": {
+        "name": "Réparer",
+        "description": "Réparer vos bâtiments endomagés"
+    },
+    "run": {
+        "name": "Courir",
+        "description": "Courir au lieu de marcher. Utilise de la stamina. Bouton ALT."
+    }
+}

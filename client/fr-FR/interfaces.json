@@ -1,0 +1,174 @@
+﻿{
+    "nameDialog": {
+        "enterPlayerName": "Nommer votre personnage",
+        "yourName": "Votre nom",
+        "buttonValue": "Jouer !"
+    },
+    "serverNames": {
+        "main": "Serveur principal",
+        "test": "Serveur de test",
+        "local": "Serveur local"
+    },
+    "cornerBar": {
+        "forumTitle": "Une idée, un bug ?\nDites-le nous sur le forum!",
+        "forumHref": "http://forum.playwildterra.com/"
+    },
+    "load": {
+        "version": "alpha-version ",
+        "warning": "Attention! ",
+        "description": "Début de développement.\nIl risque d'y avoir des \nbugs, lags et ou problèmes.\nMerci de vous réferez sur\nFORUM.PLAYWILDTERRA.COM\na pour tout problèmes."
+    },
+    "effectTimer": {
+        "years": "a",
+        "months": "m",
+        "days": "j",
+        "hours": "h",
+        "minutes": "min",
+        "seconds": "sec"
+    },
+    "inventory": {
+        "title": "Inventaire"
+    },
+    "startNeeded": "Nécésite:",
+    "ofStamina": "Endurance",
+    "ofTime": " sec.",
+    "craft": {
+        "title": "Fabriquer",
+        "craft": "Créer",
+        "materials": "Matériaux",
+        "noKnowledge": "Vous ne pouvez pas fabriquer ceci.<br/>Trouvez de vieux livres dans des coffres abandonnés ou achetez le dans la Boutique sur l'écran de sélection des serveurs.",
+        "noPremiumKnowledge": "Vous ne pouvez pas fabriquer ceci.<br/>Vous pouvez l'obtenir par le biais d'autre joueurs ou d'acheter la recêtte dans la boutique sur l'écran de sélection des serveurs."
+    },
+    "build": {
+        "zoneWarning": "Ce bâtiment n'est pas sur vos terre!\nIl sera vulnérable et/ou plus à vous.",
+        "title": "Construction",
+        "build": "Construire",
+        "materials": "Matériels",
+        "noKnowledge": "Vous ne pouvez pas construire ceci.<br/>Trouvez d'ancien parchemin dans des coffres abandonnés ou achetez le dans la Boutique sur l'écran de sélection des serveurs.",
+        "noPremiumKnowledge": "Vous ne pouvez pas construire ceci.<br/>Vous pouvez demander à d'autres joueurs de le construire ou achetez le dans la Boutique sur l'écran de sélection des serveurs."
+    },
+    "actions": {
+        "title": "Actions"
+    },
+    "menubar": {
+        "OpenInventory": "Ouvrir inventaire",
+        "ShowActions": "Voir la liste des actions",
+        "ShowMenu": "Ouvrir le menu principal",
+        "ShowChat": "Ouvrir la fenêtre de dialogue"
+    },
+    "craftList": {
+        "Weaving" : "Tissages",
+        "Survival": "Survie",
+        "Tools": "Outils",
+        "BasicTools": "Outils Primitifs",
+        "SnareTools": "Pièges",
+        "IronTools": "Outils en fer",
+        "SteelTools": "Outils en acier",
+        "FirstAid": "Premier soin",
+        "Armors": "Armures et vêtements",
+        "RawHideArmor": "Armures en peau",
+        "HideArmor": "Armures en peau tannée",
+        "LeatherArmor": "Armures en cuir",
+        "IronArmor": "Armures en fer",
+        "SteelArmor": "Armures en acier",
+        "Weapons": "Armes",
+        "HuntingWeapons": "Armes de chasse",
+        "IronWeapons": "Armes en fer",
+        "SteelWeapons": "Armes en acier",
+        "Shields": "Boucliers",
+        "PremiumSet": "Equipements de Noble",
+        "Ammunition": "Munitions",
+        "Pottery": "Poteries",
+        "Cookery": "Cuisines",
+        "Materials": "Matériaux"
+    },
+    "buildList": {
+        "Weaving" : "Tissages",
+        "Decorations": "Décorations",
+        "Debug": "Debug",
+        "CastleBuildings": "Bâtiments de château",
+        "Survival": "Survie",
+        "BranchHouseAndFenceParts": "Abris et objets en acacia",
+        "Ground works": "Terraformation",
+        "Structures": "Structures",
+        "Houses": "Maisons",
+        "LogHouses": "Charpentes en bois",
+        "HalfTimbering": "Charpentes en chaume",
+        "DoorsHouses": "Portes",
+        "Fences": "Barrière",
+        "FencesWooden": "Barrières en bois",
+        "Palisade": "Palissades",
+        "Gates": "Grandes portes",
+        "BaseStructures": "Bases",
+        "Dominiums": "Dominiums",
+        "Stores": "Stockages",
+        "BedStructures": "Lits",
+        "AfterIronStructures": "Avancés",
+        "DecorativeFurniture": "Fournitures de décoration",
+        "Containers": "Contenaires",
+        "StoneFenceIronGates": "Barrière en pierre et Grandes portes en fer",
+        "StoneBlocksFences": "Colonnes et arches en pierre",
+        "SteelGates": "Grandes portes en acier",
+        "SiegeGuns": "Armes de siège",
+        "Statues": "Statues"
+    },
+    "worldMenu": {
+        "Butcher": "Dépecer",
+        "Fire": "Allumer",
+        "Extinguish": "Eteindre",
+        "Open": "Ouvrir",
+        "Gather": "Récolter",
+        "GatherApples": "Récolter pommes",
+        "GatherWood": "Couper en bois",
+        "GatherWoodAndLog": "Récolter bois",
+        "GatherSeedling": "Récuperer les pousses",
+        "GatherBarkAndSeedling": "Ecorce et pousse",
+        "NextState": "switch",
+        "ClaimManage": "Acceder",
+        "ClaimMove": "Déplacer",
+        "ClaimUpgrade": "Améliorer",
+        "Sleep": "Dormir ici"
+    },
+    "container": {
+        "title": "Contenaire"
+    },
+    "confirmations": {
+        "btnYes": "Oui",
+        "btnNo": "Non",
+        "changeReviveSpot": "Vous serez résucité ici. Voulez-vous sauvegarder une nouvelle position ?",
+        "demolish": "Détruire bâtiment",
+        "suicide": "Etes-vous sûr de vous suicider ?"
+    },
+    "claim": {
+        "description": "Joueurs en qui vous avez confiance pour construire ou ouvrir les portes de vos terres. Si un joueur que vous avez autorisé construit sur vos terres, la construction vous appartient. Vous pouvez seulement démolir les bâtiments.",
+        "nameTitle": "Entrer nom du joueur",
+        "buildTitle": "Peut construire",
+        "doorsTitle": "Peut ouvrir mes portes",
+        "apply": "Appliquer",
+        "title": "Accès"
+    },
+    "tool": {
+        "sources": "Matériaux",
+        "resources": "Combustible",
+        "title": "Machine"
+    },
+    "chat": {
+        "me": "Moi",
+        "near": "Proximité (Entrer)",
+        "global": "Monde (Ctrl+Entrer)"
+    },
+    "deathScreen": {
+        "title": "Vous êtes mort",
+        "buttons": {
+            "revive": "Réssuscité",
+            "reviveText": "au point de résurrection",
+            "reviveNear": "Proche",
+            "reviveNearText": "du point de résurrection",
+            "reviveRandom": "Aléatoirement",
+            "reviveRandomText": "dans le monde"
+        }
+    },
+    "achievement": {
+        "title": "Nouvelles Réalisations"
+    }
+}
