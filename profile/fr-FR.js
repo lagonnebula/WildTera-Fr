@@ -23,13 +23,13 @@ module.exports = {
             canPlay: 'Accès',
             gold: 'Or',
             premium: 'Premium',
-            enterCode: 'Entrez Code',
+            enterCode: 'Validez un Code',
             backToProfile: 'Liste des Serveurs',
             addGold: 'Boutique'
         },
         codeForm: {
             title: 'Entrez le code d\'acces anticipé au jeu',
-            titleSecond: 'Entrez code suplémentaire',
+            titleSecond: 'Entrez votre code',
             inputHint: 'Code d\'acces',
             submit: 'Envoyer',
             getCode: 'Besoin d\'un code ? Récupérez-en un ici ...',

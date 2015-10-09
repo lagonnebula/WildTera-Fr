@@ -41,7 +41,7 @@
     },
     "build": {
         "zoneWarning": "Ce bâtiment n'est pas sur vos terre!\nIl sera vulnérable et/ou plus à vous.",
-        "title": "Construction",
+        "title": "Construire",
         "build": "Construire",
         "materials": "Matériels",
         "noKnowledge": "Vous ne pouvez pas construire ceci.<br/>Trouvez d'ancien parchemin dans des coffres abandonnés ou achetez le dans la Boutique sur l'écran de sélection des serveurs.",
