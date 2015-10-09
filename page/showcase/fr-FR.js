@@ -1,7 +1,7 @@
 module.exports = {
     showcase: {
-        special072105: 'Summer Special! Valid only until 10 August.',
-        specia20150901: 'Special!',
+        special072105: 'Spécial Eté ! Valide jusqu\'aux 10 Août.',
+        specia20150901: 'Spécial !',
         card: {
             price: '{value} ' +
             '{oldPrice, plural,' +
@@ -12,95 +12,95 @@ module.exports = {
         },
         bundles: {
             knight_key: {
-                name: 'Early Access Bundle “Knight”',
+                name: 'Pack d\'accès anticipé "Chevalier"',
                 description: '<ul>' +
-                '<li>Title: “Knight”.</li>' +
-                '<li>10 premium days and 1,000 gold.</li>' +
-                '<li>Participate in the development of the game.</li>' +
-                '<li>The key of early access.</li>' +
+                '<li>Titre: "Chevalier".</li>' +
+                '<li>10 jours premium et 1,000 Or.</li>' +
+                '<li>Participez au développement du jeu.</li>' +
+                '<li>Clé pour l\'accès anticipé.</li>' +
                 '</ul>'
             },
             baron_keys: {
-                name: 'Early Access Bundle “Baron”',
+                name: 'Pack d\'accès anticipé "Baron"',
                 description: '<ul>' +
-                '<li>Title: “Baron”.</li>' +
-                '<li>Unique recipes of noble breastplate.</li>' +
-                '<li>15 premium days and 1,600 gold.</li>' +
-                '<li>Participate in the development of the game.</li>' +
-                '<li>Your name in the credits.</li>' +
-                '<li>The key of early access.</li>' +
+                '<li>Titre: "Baron".</li>' +
+                '<li>Recêtte unique pour l\'armure de Noble.</li>' +
+                '<li>15 jours premium et 1,600 Or.</li>' +
+                '<li>Participez au développement du jeu.</li>' +
+                '<li>Votre nom dans les crédits.</li>' +
+                '<li>Clé pour l\'accès anticipé.</li>' +
                 '</ul>'
             },
             viscount_keys: {
-                name: 'Early Access Bundle “Viscount”',
+                name: 'Pack d\'accès anticipé "Vicomte"',
                 description: '<ul>' +
-                '<li>Title: “Viscount”.</li>' +
-                '<li>Unique recipes of noble breastplate, leggings and shield.</li>' +
-                '<li>25 premium days and 2,200 gold.</li>' +
-                '<li>Participate in the development of the game.</li>' +
-                '<li>Your name in the credits.</li>' +
-                '<li>The key of early access.</li>' +
+                '<li>Titre: "Vicomte".</li>' +
+                '<li>Recêtte unique pour l\'armure, les jambières et le bouclier de Noble.</li>' +
+                '<li>25 jours premium et 2,200 Or.</li>' +
+                '<li>Participez au développement du jeu.</li>' +
+                '<li>Votre nom dans les crédits.</li>' +
+                '<li>Clé pour l\'accès anticipé.</li>' +
                 '</ul>'
             },
             earl_keys: {
-                name: 'Early Access Bundle “Earl”',
+                name: 'Pack d\'accès anticipé "Comte"',
                 description: '<ul>' +
-                '<li>Title: “Earl”.</li>' +
-                '<li>Unique recipes of noble breastplate, leggings, sword and shield.</li>' +
-                '<li>35 premium days and 2,800 gold.</li>' +
-                '<li>Participate in the development of the game.</li>' +
-                '<li>Your name in the credits.</li>' +
-                '<li>The key of early access.</li>' +
+                '<li>Titre: "Comte".</li>' +
+                '<li>Recêtte unique pour \'armure, les jambières, l\'arme et le bouclier de Noble.</li>' +
+                '<li>35 jours premium et 2,800 Or.</li>' +
+                '<li>Participez au développement du jeu.</li>' +
+                '<li>Votre nom dans les crédits.</li>' +
+                '<li>Clé pour l\'accès anticipé.</li>' +
                 '</ul>'
             },
             marquis_keys: {
-                name: 'Early Access Bundle “Marquis”',
+                name: 'Pack d\'accès anticipé "Marquis"',
                 description: '<ul>' +
-                '<li>Title: “Marquis”.</li>' +
-                '<li>Unique recipes of noble breastplate, leggings, greaves, gloves, sword and shield.</li>' +
-                '<li>60 premium days and 4,500 gold.</li>' +
-                '<li>Participate in the development of the game.</li>' +
-                '<li>Your name in the credits.</li>' +
-                '<li>The key of early access.</li>' +
+                '<li>Titre: "Marquis".</li>' +
+                '<li>Recêtte unique pour l\'armure, les jambières, les Solerets, les gantelet, l\'arme et le bouclier de Noble.</li>' +
+                '<li>60 jours premium et 4,500 Or.</li>' +
+                '<li>Participez au développement du jeu.</li>' +
+                '<li>Votre nom dans les crédits.</li>' +
+                '<li>Clé pour l\'accès anticipé.</li>' +
                 '</ul>'
             },
             duke_keys: {
-                name: 'Early Access Bundle “Duke”',
+                name: 'Pack d\'accès anticipé "Duc"',
                 description: '<ul>' +
-                '<li>Title: “Duke”.</li>' +
-                '<li>Unique recipes of noble breastplate, leggings, greaves, gloves, sword, shield and cloak.</li>' +
-                '<li>80 premium days and 6,000 gold.</li>' +
-                '<li>Participate in the development of the game.</li>' +
-                '<li>Your name in the credits.</li>' +
-                '<li>The key of early access.</li>' +
+                '<li>Titre: "Duc".</li>' +
+                '<li>Recêtte unique pour l\'armure, les jambières, les Solerets, les gantelet, l\'arme, le bouclier et la cape de Noble.</li>' +
+                '<li>80 jours premium et 6,000 Or.</li>' +
+                '<li>Participez au développement du jeu.</li>' +
+                '<li>Votre nom dans les crédits.</li>' +
+                '<li>Clé pour l\'accès anticipé.</li>' +
                 '</ul>'
             }
         },
         dialog: {
             errors: {
-                required: "Required field",
-                wrong: "Error in email address"
+                required: "Champ requis",
+                wrong: "Adresse mail invalide"
             },
-            input: 'Enter your email',
-            cancel: 'Cancel',
-            continue: 'Continue',
-            bundleTitle: 'Bundle consist of',
-            emailTitle: 'Email address',
-            emailText: 'After paying you will get the early access bundle.',
-            agreeHtml: '<p>Some payment systems may add their commission to the price. VAT added only for EU countries. ' +
-            'With a clicking "Buy" button, you are accepting the terms of <a target="_blank" href="/eula.pdf">this service agreement</a>.</p>',
+            input: 'Votre adresse mail',
+            cancel: 'Annuler',
+            continue: 'Continuer',
+            bundleTitre: 'Le pack est composé de',
+            emailTitre: 'Adresse mail',
+            emailText: 'Après le paiement vous recevrez l\'Accès anticipé.',
+            agreeHtml: '<p>Certain système de paiement ajouterons leurs comission au prix. TVA seulement pour l\'Europe. ' +
+            'En appuyant sur "Acheter", vous acceptez les termes de With a clicking "Buy" button, you are accepting the terms of <a target="_blank" href="/eula.pdf">l\'accord de license</a>.</p>',
             requirements: '<p><b>System requirements</b><br/>\
-               Operating System: Windows XP/Vista/7/8 or better, Linux or Mac OS.<br/>\
-               CPU: 2,2 GHz or higher. RAM: more than 2 GB.\
-               Video memory: 256 MB or more. Free space on hard drive: 200 MB.<br/>\
-               Internet connection speed: 256 Kbps or higher</p>'
+               Système d\'exploitation: Windows XP/Vista/7/8 ou plus, Linux ou Mac OS.<br/>\
+               CPU: 2,2 GHz ou plus. RAM: plus de 2 GB.\
+               Mémoire vidéo: 256 MB ou plus. Espace disque libre: 200 MB.<br/>\
+               Connexion internet: 256 Kbps ou plus</p>'
         },
-        currency: 'USD',
+        currency: 'EUR',
         currencyForPayment: false,
         RUB: 'RUB',
         EUR: 'EUR',
         USD: 'USD',
         PLN: 'PLN',
-        localeName: 'en'
+        localeName: 'fr'
     }
 };
