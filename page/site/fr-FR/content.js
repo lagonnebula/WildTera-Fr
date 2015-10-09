@@ -7,7 +7,7 @@
         "link": "mainScreen"
       },
       {
-        "title": "About",
+        "title": "A propos",
         "link": "aboutScreen"
       },
       {
@@ -15,7 +15,7 @@
         "link": "mediaScreen"
       },
       {
-        "title": "News",
+        "title": "Nouveautés",
         "link": "newsScreen"
       },
       {
@@ -31,7 +31,7 @@
         "link": "http://forum.playwildterra.com/"
       },
       {
-        "title": "Play",
+        "title": "Jouer",
         "link": "showCaseScreen",
         "sales": true
       }
@@ -40,14 +40,14 @@
   "mainScreen": {
     "play": "Play",
     "watch": "Gameplay video",
-    "description": "Massively multiplayer online role-playing game with open world. Surviving in wild nature, harvesting, hunting, gathering, craft, unlimited building, pvp, sieges, treasure hunting, and even more!",
-    "imgAlt": "Massively multiplayer online role-playing game with open world. Surviving in wild nature, harvesting, hunting, gathering, craft, unlimited building, pvp, sieges, treasure hunting, and even more!"
+    "description": "Simulateur de vie Massivement Multijoueur dans un univers médiéval. Survivre dans la nature sauvage, fabriquer, construire, JcJ, sièges, chasse au trésors, et bien plus !",
+    "imgAlt": "Simulateur de vie Massivement Multijoueur dans un univers médiéval. Survivre dans la nature sauvage, fabriquer, construire, JcJ, sièges, chasse au trésors, et bien plus !"
   },
   "aboutScreen": {
     "about": [
       {
-        title: 'Travelling',
-        subTitle: 'Huge world',
+        title: 'Exploration',
+        subTitle: 'Monde immense',
         ingress: '<p>Free space of a huge size where everyone can find a place for himself. ' +
         'No cubes, no corners, only pleasant graphics in Medieval European style. ' +
         'A lot of unique...</p>',
@@ -60,8 +60,8 @@
         anyOneOpened: false
       },
       {
-        title: 'Survival',
-        subTitle: 'Gather and hunt',
+        title: 'Survie',
+        subTitle: 'Recoltez et chassez',
         ingress: '<p>Hey! What\'s growing out there? Is it edible? And what\'s there in the bushes? ' +
         'Is it a hare? What are we going to do with it?.. Gather everything you can. ' +
         'You\'ll need all of it in your survival. Take a stone...</p>',
@@ -75,8 +75,8 @@
         anyOneOpened: false
       },
       {
-        title: 'Creation',
-        subTitle: 'Build and craft',
+        title: 'Fabrication',
+        subTitle: 'Construisez et fabriquez',
         ingress: '<p>From a shelter to a castle. You are free to build everywhere you desire. ' +
         'Dozens of materials of any kind, hundreds of schemes and crafting...</p>',
         text: '<p>From a shelter to a castle. You are free to build everywhere you desire. ' +
@@ -88,8 +88,8 @@
         anyOneOpened: false
       },
       {
-        title: 'Battles',
-        subTitle: 'Fight and win',
+        title: 'Combats',
+        subTitle: 'Combattez et remportez',
         ingress: '<p>Dozens of types of weapons and armor along with different ways to use them, ' +
         'form a unique Wild Terra\'s combat system. You don\'t have to be a high level player to fight and win. ' +
         'Even newbies have chances...</p>',
@@ -108,51 +108,51 @@
     youTubeSRC: 'https://www.youtube.com/embed/cOP6X6GWZrk?vq=hd720&showinfo=0&rel=0&controls=2&autohide=1',
     slides: [
       {
-        title: 'Behind the wall',
+        title: 'Derrière les murs',
         subTitle: 'Screenshot 0.7.17',
         preview: '/img/shots/0_7_17_s2.jpg',
         img: '/img/shots/0_7_17_en.jpg'
       },
       {
-        title: 'Weavers fortress',
+        title: 'Forteresse d\'artisanat',
         subTitle: 'Screenshot 0.7.16',
         preview: '/img/shots/0_7_16_s2.jpg',
         img: '/img/shots/0_7_16_en.jpg'
       },
       {
-        title: 'Vanquish',
+        title: 'Conquérir',
         subTitle: 'Screenshot 0.7.15',
         preview: '/img/shots/0_7_15_s2.jpg',
         img: '/img/shots/0_7_15_en.jpg'
       },
       {
-        title: 'Grapple',
+        title: 'Corps à corps',
         subTitle: 'Concept-art',
         tags: 'Anna Kharlova',
         preview: '/img/shots/female_art_s2.jpg',
         img: '/img/shots/female_1920_logo_en.jpg'
       },
       {
-        title: 'Male character',
+        title: 'Personnage masculin',
         subTitle: 'Concept-art',
         tags: 'Anna Kharlova',
         preview: '/img/shots/male_art_s2.jpg',
         img: '/img/shots/male_1920_logo_en.jpg'
       },
       {
-        title: 'Town building',
+        title: 'Création de ville',
         subTitle: 'Screenshot 0.7.14',
         preview: '/img/shots/0_7_14_s2.jpg',
         img: '/img/shots/0_7_14_en.jpg'
       },
       {
-        title: 'Surviving together',
+        title: 'Survivre ensemble',
         subTitle: 'Screenshot 0.7.13',
         preview: '/img/shots/0_7_13_s2.jpg',
         img: '/img/shots/0_7_13_en.jpg'
       },
       {
-        title: 'Secret smithy',
+        title: 'Forgeron secret',
         subTitle: 'Screenshot 0.7.12',
         preview: '/img/shots/0_7_12_s2.jpg',
         img: '/img/shots/0_7_12_en.jpg'
@@ -164,28 +164,28 @@
         img: '/img/shots/concept.jpg'
       },
       {
-        title: 'Waterfall',
+        title: 'Chute d\'eau',
         subTitle: 'Decor-art',
         tags: 'Anna Kharlova',
         preview: '/img/shots/waterfall_art_s2.jpg',
         img: '/img/shots/waterfall_1920_logo-en.jpg'
       },
       {
-        title: 'Who beats who',
+        title: 'Qui vous terrassera',
         subTitle: 'Decor-art',
         tags: 'Anna Kharlova',
         preview: '/img/shots/cave_art_s2.jpg',
         img: '/img/shots/cave_1920_logo-en.jpg'
       },
       {
-        title: 'Town patrol',
+        title: 'Patrouille de ville',
         subTitle: 'Decor-art',
         tags: 'Anna Kharlova',
         preview: '/img/shots/town_art_s2.jpg',
         img: '/img/shots/town_1920_logo-en.jpg'
       },
       {
-        title: 'Siege',
+        title: 'Siège',
         subTitle: 'Decor-art',
         tags: 'Anna Kharlova',
         preview: '/img/shots/siege_art_s2.jpg',
@@ -208,11 +208,11 @@
     "<b>Name in the credits</b> &mdash; your name will be shown in credits of the game."
   },
   "newsScreen": {
-    "title": "News",
+    "title": "Nouveautés",
     "twitLink": "https://twitter.com/PlayWildTerra"
   },
   "customScreen": {
-    "backButton": "Back to the site",
+    "backButton": "Retour sur le site",
     "contents": {
       "thanks": "<h1>Thank you for your purchase!</h1>" +
       "<p class='text-justify'>The letter with your key was sent to the specified email address. " +
@@ -223,7 +223,7 @@
     "title": "FAQ",
     "questions": [
       {
-        title: 'What is "Wild Terra"?',
+        title: 'Qu\'est ce que "Wild Terra"?',
         content: '<span><p>It is a hybrid of action-RPG and sandbox with building, ' +
         'crafting, gathering, farming and land claiming elements. ' +
         'There are no NPCs in the game, so the only way to get something is to create it by yourself or buy it from other players... ' +
@@ -236,7 +236,7 @@
         collapsed: false
       },
       {
-        title: 'Is there PvP in the game?',
+        title: 'Il y à t\'il un JcJ ?',
         content: '<span><p>Yes, you are free to attack and be attacked everywhere.' +
         'But we already have different servers: with free PvP and PvE only. And PvP also means that' +
         'all buildings can be destroyed and you drop all you have in an inventory after death. '+
@@ -252,14 +252,14 @@
         collapsed: true
       },
       {
-        title: 'What is the release date?',
+        title: 'Quel est la date de sortie ?',
         content: '<span><p>You can start playing alfa right now if you get early access bundle.</p>' +
         '<p>We plan to finish working on Wild Terra in the end of 2015, but that doesn\'t mean that the game will have it\'s final look. ' +
         'We will continue to develop new game features, expand the world and fill it with new habitants.</p></span>',
         collapsed: true
       },
       {
-        title: 'How large will the game world be in Wild Terra?',
+        title: 'Quelle sera la taille des mon dans Wild Terra?',
         content: '<span><p>We have to say that current game world is relatively big. ' +
         'If you make a screenshot of it you will get a 65 536x32 768 pixels photo, which is about ' +
         '1200 game windows, if you count in 22" monitors. ' +
@@ -268,7 +268,7 @@
         collapsed: true
       },
       {
-        title: 'What have you already done in the game?',
+        title: 'Qu\'avez vous déja mis dans le jeu ?',
         content: '<span><p>Players find our game very interesting to play, even on such early stages of development.</p>' +
         '<p>All basic mechanics are working: gathering, farming, hunting, mining, building, crafting, cooking etc.</p>' +
         '<p>Crafting chains, building schemes and new items are added regularly to improve the game. ' +
@@ -280,7 +280,7 @@
         collapsed: true
       },
       {
-        title: 'What are the system requirements to play Wild Terra?',
+        title: 'Quel est le matériel requis ?',
         content: '<span><p>On the current stage of development you need: Intel core i5 processor or higher, ' +
         '4GB RAM or higher, 256mb video card or higher, 1280x800 screen resolution or higher, ' +
         '5MB per second or higher, internet connection for comfort playing. ' +
@@ -290,8 +290,8 @@
     ]
   },
   "footerScreen": {
-    "likeTitle": "Like our project?",
-    "joinUs": "Join us in socials:",
+    "likeTitle": "Vous aimez notre projet ?",
+    "joinUs": "Rejoignez-nous sur les réseaux sociaux:",
     "socialLinks": '<a href="http://www.facebook.com/wildterraonline/" class="soc-round"><i class="fa fa-facebook"></i></a>' +
     '<a href="http://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=PlayWildTerra" class="soc-round"><i class="fa fa-twitter"></i></a>' +
     '<a href="https://plus.google.com/u/2/b/116384038851437864599/116384038851437864599/" class="soc-round"><i class="fa fa-google-plus"></i></a>' +
@@ -361,5 +361,5 @@
     "closeButton": "Close"
   },
 
-  "showcase": require('wt-showcase/app/scripts/locales/en-US').showcase
+  "showcase": require('wt-showcase/app/scripts/locales/fr-FR').showcase
 };

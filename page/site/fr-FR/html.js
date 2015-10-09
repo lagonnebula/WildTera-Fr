@@ -1,18 +1,18 @@
 module.exports = {
   "header": {
-    "title": "Wild Terra Online - Sandbox Survival MMORPG, open world with free PvP",
-    "description": "Massively multiplayer life simulator in fully player-driven medieval world. Surviving in wild nature, craft, unlimited building, PvP and castle sieges. Start as a survivor - become a medieval king!",
+    "title": "Wild Terra Online - Sandbox Survival MMORPG, monde ouvert avec JcJ",
+    "description": "Simulateur de vie Massivement Multijoueur dans un univers médiéval. Survivre dans la nature sauvage, fabriquer, construire, JcJ, sièges. Commencez comme un survivant, devenez roi !",
     "image": "http://www.playwildterra.com/img/wildterra.jpg",
     "url": "http://www.playwildterra.com/",
     "name": "Play Wild Terra Online",
-    "locale": "en_US",
-    "lang": "en"
+    "locale": "fr_FR",
+    "lang": "fr"
   },
   "pages": {
     "index" : {
-      title: "Wild Terra Online - Sandbox Survival MMORPG, open world with free PvP",
+      title: "Wild Terra Online - Sandbox Survival MMORPG, monde ouvert avec JcJ",
       heading: "",
-      html: "Massively multiplayer life simulator in fully player-driven medieval world. Surviving in wild nature, craft, unlimited building, PvP and castle sieges. Start as a survivor - become a medieval king!",
+      html: "Simulateur de vie Massivement Multijoueur dans un univers médiéval. Survivre dans la nature sauvage, fabriquer, construire, JcJ, sièges. Commencez comme un survivant, devenez roi !",
       modules: {
         main: true,
         navbar: true,
@@ -25,13 +25,13 @@ module.exports = {
       }
     },
     "thanks-buy" : {
-      title: "Thank you for your purchase!",
+      title: "Merci de votre achat !",
       modules: {
-        custom: "thanks"
+        custom: "Merci"
       }
     },
     "landing-one" : {
-      title: "Wild Terra Online - Sandbox Survival MMORPG, open world with free PvP",
+      title: "Wild Terra Online - Sandbox Survival MMORPG, monde ouvert avec JcJ",
       modules: {
         land1: true,
         media: true,
@@ -39,7 +39,7 @@ module.exports = {
       }
     },
     "landing-two" : {
-      title: "Wild Terra Online - Sandbox Survival MMORPG, open world with free PvP",
+      title: "Wild Terra Online - Sandbox Survival MMORPG, monde ouvert avec JcJ",
       modules: {
         land2: {class: "land2"},
         media: true,
@@ -47,7 +47,7 @@ module.exports = {
       }
     },
     "land-cave" : {
-      title: "Wild Terra Online - Sandbox Survival MMORPG, open world with free PvP",
+      title: "Wild Terra Online - Sandbox Survival MMORPG, monde ouvert avec JcJ",
       modules: {
         land2: {class: "cave"},
         media: true,
@@ -55,7 +55,7 @@ module.exports = {
       }
     },
     "land-siege" : {
-      title: "Wild Terra Online - Sandbox Survival MMORPG, open world with free PvP",
+      title: "Wild Terra Online - Sandbox Survival MMORPG, monde ouvert avec JcJ",
       modules: {
         land2: {class: "siege"},
         media: true,
@@ -63,7 +63,7 @@ module.exports = {
       }
     },
     "land-waterfall" : {
-      title: "Wild Terra Online - Sandbox Survival MMORPG, open world with free PvP",
+      title: "Wild Terra Online - Sandbox Survival MMORPG, monde ouvert avec JcJ",
       modules: {
         land2: {class: "waterfall"},
         media: true,
@@ -71,7 +71,7 @@ module.exports = {
       }
     },
     "land-town" : {
-      title: "Wild Terra Online - Sandbox Survival MMORPG, open world with free PvP",
+      title: "Wild Terra Online - Sandbox Survival MMORPG, monde ouvert avec JcJ",
       modules: {
         land2: {class: "town"},
         media: true,
