@@ -36,16 +36,16 @@ module.exports = {
             success: 'Félicitation, code validé'
         },
         "closed": {
-            "enterTitle": "Testing completed",
-            "closedHtml": "<p>Update is set to the main servers area.</p>" +
-            "<p>Thank you all for participating in the testing!</p>" +
-            "<p><a target='_blank' type='button' class='btn btn-success' role='button' href='http://files.playwildterra.com/'>Download client to play in the main servers area...</a></p>" +
-            "<p>Note that to play in the main area separate account needed.</p>"
+            "enterTitle": "Test terminé",
+            "closedHtml": "<p>La mise à jour à été déployé sur les serveurs principaux.</p>" +
+            "<p>Merci à tous d'avoir participez aux tests du jeu.</p>" +
+            "<p><a target='_blank' type='button' class='btn btn-success' role='button' href='http://files.playwildterra.com/'>Télécharger le client pour les serveurs principaux...</a></p>" +
+            "<p>Souvenez-vous que pour jouer sur les serveurs principaux, un compte différent est nécessaire.</p>"
         },
         "needUpdate": {
-            "enterTitle": "Please update game client",
-            "updateHtml": "<p>You should use game client version 0.{version}</p>" +
-            "<p><a target='_blank' type='button' class='btn btn-success' role='button' href='{downLoadLink}'>Download new version...</a></p>"
+            "enterTitle": "Mettez à vous votre jeu.",
+            "updateHtml": "<p>Vous devez utilisé la version 0.{version} du client.</p>" +
+            "<p><a target='_blank' type='button' class='btn btn-success' role='button' href='{downLoadLink}'>Télécharger la nouvelle version...</a></p>"
         },
         serverList: {
             title: 'Liste des Serveurs',
