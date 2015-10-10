@@ -8,7 +8,7 @@ module.exports = {
                 '=0 {}' +
                 'other {<span class="oldPrice">{oldPrice, number}</span>}' +
             '}',
-            buy: 'Buy'
+            buy: 'Acheter'
         },
         bundles: {
             knight_key: {
@@ -84,8 +84,8 @@ module.exports = {
             input: 'Votre adresse mail',
             cancel: 'Annuler',
             continue: 'Continuer',
-            bundleTitre: 'Le pack est composé de',
-            emailTitre: 'Adresse mail',
+            bundleTitle: 'Le pack est composé de',
+            emailTitle: 'Adresse mail',
             emailText: 'Après le paiement vous recevrez l\'Accès anticipé.',
             agreeHtml: '<p>Certain système de paiement ajouterons leurs comission au prix. TVA seulement pour l\'Europe. ' +
             'En appuyant sur "Acheter", vous acceptez les termes de With a clicking "Buy" button, you are accepting the terms of <a target="_blank" href="/eula.pdf">l\'accord de license</a>.</p>',
