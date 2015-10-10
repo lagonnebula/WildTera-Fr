@@ -23,7 +23,7 @@ module.exports = {
     "goForgot": "Récupèrez-le!"
   },
   "testServerWarning": "Vous êtes dans la zone des serveurs de test. " +
-  "Un compte différent est nécessaire pour jouer. Les clés Early-Access ne marche pas pour cette zone.",
+  "Un compte différent est nécessaire pour jouer. Les clés d'accès anticipé ne fonctionne pas pour cette zone.",
   "forgot": {
     "title": "Wild Terra - Récupération de mot de passe",
     "enterTitle": "Récupérez votre mot de passe",
