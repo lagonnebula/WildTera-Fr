@@ -89,8 +89,8 @@ module.exports = {
                     'Les animaux sont plus puissant mais plus rare. Les ressources du monde sont moindre et plus longue à pousser.'
                 },
                 DevBellatrix: {
-                    name: 'Trial',
-                    description: 'Règles normales. cJ ouvert, desctruction de batiments, plein de butins. ' +
+                    name: 'Essai',
+                    description: 'Règles normales. JcJ ouvert, desctruction de batiments, plein de butins. ' +
                     'Il est nécessaire de trouver les schémas pour les objets et les batiments complexe.'
                 },
                 Local: {

@@ -7,7 +7,7 @@
         "RobustDoor": "Porte robuste",
         "BrickOven": "Four en brique",
         "ClayBoiler": "Chaudron en argile",
-        "Gobelin": "Portrait",
+        "Gobelin": "Peinture",
         "FlaxStack": "Pile de lin",
         "FlaxBreak": "Ecang",
         "SpinningWheel": "Rouet",
@@ -180,7 +180,7 @@
         "GrapesSeeds": "Graines de raisin",
         "Pumpkin": "Citrouille",
         "PumpkinPieces": "Morceau de citrouille",
-        "Grapes": "Grappes",
+        "Grapes": "Grappe de raisin",
         "Raisins": "Raisins",
         "Bones": "Os",
         "BoneMeal": "Poudre d'os",
@@ -395,7 +395,7 @@
         },
         "globalTimeBonus": {
             "title": "Amélioration",
-            "description": "Rapidité de récole, construction et fabrication."
+            "description": "Augmente la vitresse de récolte, construction et fabrication."
         },
         "slow": {
             "title": "Ralentissement",
@@ -458,7 +458,7 @@
             "description": "Augmente la récolte de pommes et d'eau."
         }
     },
-    "corpse": ",mort",
+    "corpse": ", cadavre",
     "effects": {
         "silence": {
             "title": "Silence",
