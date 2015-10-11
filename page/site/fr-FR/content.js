@@ -38,7 +38,7 @@
     ]
   },
   "mainScreen": {
-    "play": "Play",
+    "play": "Jouer",
     "watch": "Vidéo de gameplay",
     "description": "Simulateur de vie Massivement Multijoueur dans un univers médiéval. Survivre dans la nature sauvage, fabriquer, construire, JcJ, sièges, chasse au trésors, et bien plus !",
     "imgAlt": "Simulateur de vie Massivement Multijoueur dans un univers médiéval. Survivre dans la nature sauvage, fabriquer, construire, JcJ, sièges, chasse au trésors, et bien plus !"
@@ -194,18 +194,18 @@
     ]
   },
   "showCaseScreen": {
-    "title": "EARLY ACCESS – PLAY RIGHT NOW!",
-    "leftColumn": "Game development is still in progress. You can join the player community right now " +
-    "and help us make the game better! By buying an Early Access Bundle you will support our project.",
-    "leftColumnFree": "<p align='center'>You can start playing for free right now!</b><br/><br/>" +
-    "<a class='btn btn-download' href='http://files.playwildterra.com/dev/'>Download</a></p>",
-    "rightColumn": "Access remains forever. With an access key you will get a title in the game, a premium membership, " +
-    "gold and recipes that depend on the type of the key.<br/>",
-    "bottom": "<b>Premium status</b> &mdash; increases speed of material gathering, manufacture and construction. " +
-    "After official start of the project, period of premium status will start anew.<br/>" +
-    "<b>Gold</b> can be used for purchases in the game shop, allowing to rename your character, change sex, create a guild and so on.<br/>" +
-    "<b>Noble armor</b> &mdash; allows to manufacture special type of armor unavailable for common players.<br/>" +
-    "<b>Name in the credits</b> &mdash; your name will be shown in credits of the game."
+    "title": "ACCES ANTICIPE – JOUER MAINTENANT !",
+    "leftColumn": "Le développement du jeu est encore en progression. Vous pouvvez rejoindre dès maitnenant la communauté " +
+    "et nous aidez à rendre le jeu meilleur! En achetant l\'accès anticipé vous supportez le projet.",
+    "leftColumnFree": "<p align='center'>Vous pouvez commencer à jour gratuitement !</b><br/><br/>" +
+    "<a class='btn btn-download' href='http://files.playwildterra.com/dev/'>Téléchargement</a></p>",
+    "rightColumn": "L\'accès reste à vie. Avec une clé vous recevrez un titre en jeu, un abonnement premium, " +
+    "de l\'or et des recettes dependant au type de clé.<br/>",
+    "bottom": "Le <b>Status Premium</b> &mdash; augmente la vitesse de récolte, fabrication et construction. " +
+    "Après la sortie officiel du projet, une nouvelle période de Premium commencera.<br/>" +
+    "L'<b>Or</b> est utilisable dans la boutique, permettant de renommer votre personnage, changer de sexe, créer une guilde et bien plus.<br/>" +
+    "Les <b>armures de Noble</b> &mdash; permet de fabriquer des objets spéciaux de type armure qui ne sont pas disponible pour les joueurs normaux.<br/>" +
+    "<b>Nom dans les crédits</b> &mdash; votre nom sera affiché dans les crédits du jeu."
   },
   "newsScreen": {
     "title": "Nouveautés",
