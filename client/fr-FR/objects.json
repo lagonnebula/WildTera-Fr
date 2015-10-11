@@ -7,7 +7,7 @@
         "RobustDoor": "Porte robuste",
         "BrickOven": "Four en brique",
         "ClayBoiler": "Chaudron en argile",
-        "Gobelin": "Portrait",
+        "Gobelin": "Peinture",
         "FlaxStack": "Pile de lin",
         "FlaxBreak": "Ecang",
         "SpinningWheel": "Rouet",
@@ -49,17 +49,17 @@
         "DominiumNobleDescription": "Reçu en améliorant le précédent.",
         "BoughBed": "Lit de branches",
         "BoughBedDescription": "Enregistre votre point de resurrection.",
-        "BranchCabinComplex": "Abris",
+        "BranchCabinComplex": "Abri",
         "BranchCabinComplexDescription": "Créer des murs autour de votre lit pour le proteger.",
-        "BranchDoor": "Porte d'abris",
+        "BranchDoor": "Porte d'abri",
         "BranchDoorDescription": "Posez une porte à l'emplacement de la porte.",
         "SmallWoodenBasket": "Panier",
         "SmallWoodenBasketDescription": "Un peu d'espace pour stocker vos objets.",
-        "BranchWall": "Mur pour abris",
-        "BranchRoof": "Toit pour abris",
-        "BranchRoof713": "Toit pour abris",
-        "BranchDoorway": "Porte pour abris",
-        "BranchWindow": "Fênetre pour abris",
+        "BranchWall": "Mur pour abri",
+        "BranchRoof": "Toit pour abri",
+        "BranchRoof713": "Toit pour abri",
+        "BranchDoorway": "Porte pour abri",
+        "BranchWindow": "Fênetre pour abri",
         "BranchFence": "Barrière",
         "BranchFenceGate": "Portail",
         "WoodenDoor": "Porte en bois",
@@ -85,8 +85,8 @@
         "HunterBedDescription": "Permet de revenir à la vie avec encore plus de point de vie que le précédent.",
         "Bed": "Lit douillet",
         "BedDescription": " Permet de revenir à la vie avec encore plus de point de vie que le précédent.",
-        "Smelter711": "Four primitif",
-        "BigSmelter": "Grand four primitif",
+        "Smelter711": "Fonderie",
+        "BigSmelter": "Grande fonderie",
         "StoneAnvil": "Enclume en pierre",
         "Millstones": "Meule",
         "Oven711": "Four",
@@ -170,7 +170,7 @@
         "CropAppleTree": "Pommier",
         "Ballista": "Baliste",
         "BallistaDescription": "Ne peut être utilisé qu'après quelques heures.",
-        "RoastFurnace": "Four à bois",
+        "RoastFurnace": "Rôtisseur",
         "CrucibleShop": "Forge",
         "ClaimMarker": "Marqueur"
     },
@@ -180,7 +180,7 @@
         "GrapesSeeds": "Graines de raisin",
         "Pumpkin": "Citrouille",
         "PumpkinPieces": "Morceau de citrouille",
-        "Grapes": "Grappes",
+        "Grapes": "Grappe de raisin",
         "Raisins": "Raisins",
         "Bones": "Os",
         "BoneMeal": "Poudre d'os",
@@ -383,19 +383,19 @@
     "bonuses": {
         "flaxBreak": {
             "title": "Ecang",
-            "description": "Nécessaire pour certaine recette."
+            "description": "Nécessaire pour certaine rêcette."
         },
         "spinningWheel": {
             "title": "Rouet",
-            "description": "Nécessaire pour certaine recette."
+            "description": "Nécessaire pour certaine rêcette."
         },
         "loom": {
             "title": "Métier à tisser",
-            "description": "Nécessaire pour certaine recette."
+            "description": "Nécessaire pour certaine rêcette."
         },
         "globalTimeBonus": {
             "title": "Amélioration",
-            "description": "Rapidité de récole, construction et fabrication."
+            "description": "Augmente la vitresse de récolte, construction et fabrication."
         },
         "slow": {
             "title": "Ralentissement",
@@ -403,11 +403,11 @@
         },
         "hatchet": {
             "title": "Machette",
-            "description": "Permet de couper les arbres.\nNécessaire pour certaines recettes.\nPlus le bonus est grand mieux c'est."
+            "description": "Permet de couper les arbres.\nNécessaire pour certaines rêcettes.\nPlus le bonus est grand mieux c'est."
         },
         "knife": {
             "title": "Couteau",
-            "description": "Permet de récuperer de la viande et de la peau.\nNécessaire pour certaines recettes.\nPlus le bonus est grand mieux c'est."
+            "description": "Permet de récuperer de la viande et de la peau.\nNécessaire pour certaines rêcettes.\nPlus le bonus est grand mieux c'est."
         },
         "shovel": {
             "title": "Pèle",
@@ -415,7 +415,7 @@
         },
         "saw": {
             "title": "Scie",
-            "description": "Nécessaire pour certaines recettes.\nPlus le bonus est grand mieux c'est."
+            "description": "Nécessaire pour certaines rêcettes.\nPlus le bonus est grand mieux c'est."
         },
         "sickle": {
             "title": "Faucille",
@@ -423,7 +423,7 @@
         },
         "hammer": {
             "title": "Marteau",
-            "description": "Nécessaire pour certaines recettes.\nPlus le bonus est grand mieux c'est."
+            "description": "Nécessaire pour certaines rêcettes.\nPlus le bonus est grand mieux c'est."
         },
         "pickaxe": {
             "title": "Pioche",
@@ -435,11 +435,11 @@
         },
         "workbench": {
             "title": "Atelier",
-            "description": "Nécessaire pour certaines recettes.\nAugmente la vitesse de fabrication."
+            "description": "Nécessaire pour certaines rêcettes.\nAugmente la vitesse de fabrication."
         },
         "anvil": {
             "title": "Enclume",
-            "description": "Nécessaire pour certaines recettes.\nAugmente la vitesse de fabrication."
+            "description": "Nécessaire pour certaines rêcettes.\nAugmente la vitesse de fabrication."
         },
         "armor": {
             "title": "Armure",
@@ -458,7 +458,7 @@
             "description": "Augmente la récolte de pommes et d'eau."
         }
     },
-    "corpse": ",mort",
+    "corpse": ", cadavre",
     "effects": {
         "silence": {
             "title": "Silence",
