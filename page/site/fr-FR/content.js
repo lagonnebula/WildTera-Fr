@@ -39,7 +39,7 @@
   },
   "mainScreen": {
     "play": "Play",
-    "watch": "Gameplay video",
+    "watch": "Vidéo de gameplay",
     "description": "Simulateur de vie Massivement Multijoueur dans un univers médiéval. Survivre dans la nature sauvage, fabriquer, construire, JcJ, sièges, chasse au trésors, et bien plus !",
     "imgAlt": "Simulateur de vie Massivement Multijoueur dans un univers médiéval. Survivre dans la nature sauvage, fabriquer, construire, JcJ, sièges, chasse au trésors, et bien plus !"
   },
@@ -48,13 +48,13 @@
       {
         title: 'Exploration',
         subTitle: 'Monde immense',
-        ingress: '<p>Free space of a huge size where everyone can find a place for himself. ' +
-        'No cubes, no corners, only pleasant graphics in Medieval European style. ' +
-        'A lot of unique...</p>',
-        text: '<p>Free space of a huge size where everyone can find a place for himself. ' +
-        'No cubes, no corners, only pleasant graphics in Medieval European style. ' +
-        'A lot of unique places will make your journey full of discoveries. ' +
-        'Explore the world in search for treasures! Seek and you will surely find them.</p>',
+        ingress: '<p>Des espaces sauvages immense où tout le monde peut y trouver son petit lopin de terre. ' +
+        'Pas de cubes, pas de coins, seulement des graphisme plaisant dans un style Européano-médiéval. ' +
+        'Des lieux uniques...</p>',
+        text: '<p>Des espaces sauvages immense où tout le monde peut y trouver son petit lopin de terre. ' +
+        'Pas de cubes, pas de coins, seulement des graphisme plaisant dans un style Européano-médiéval. ' +
+        'Des lieux uniques qui remplirons votre journée de découvertes. ' +
+        'Explorez le monde à la recherche de trésors! Cherchez et vous les trouverez !.</p>',
         imgClass: 'explore-about',
         collapsed: true,
         anyOneOpened: false
@@ -62,14 +62,14 @@
       {
         title: 'Survie',
         subTitle: 'Recoltez et chassez',
-        ingress: '<p>Hey! What\'s growing out there? Is it edible? And what\'s there in the bushes? ' +
-        'Is it a hare? What are we going to do with it?.. Gather everything you can. ' +
-        'You\'ll need all of it in your survival. Take a stone...</p>',
-        text: '<p>Hey! What\'s growing out there? Is it edible? And what\'s there in the bushes? ' +
-          'Is it a hare? What are we going to do with it?.. Gather everything you can. ' +
-        'You\'ll need all of it in your survival. Take a stone, combine it with a branch and you\'ll get an axe. ' +
-        'Can\'t catch a hare? Try to craft a bow. Is it done? Then go hunting. ' +
-        'Also don\'t forget that a campfire in a plain is good, but a roof over your head is better.</p>',
+        ingress: '<p>Hey! Qu\'est ce qui pousse la bas ? C\'est comestible ? Et il y a quoi dans ce buisson ? ' +
+        'C\'est un lièvre ? Qu\'allons nous bien pouvoir faire avec ... ? Récoltez tous ce que vous pouvez. ' +
+        'Vous aurez besoin de tout pour survivre. Prenez une pierre...</p>',
+        text: '<p>Hey! Qu\'est ce qui pousse la bas ? C\'est comestible ? Et il y a quoi dans ce buisson ? ' +
+        'C\'est un lièvre ? Qu\'allons nous bien pouvoir faire avec ... ? Récoltez tous ce que vous pouvez. ' +
+        'Vous aurez besoin de tout pour survivre. Prenez une pierre, combinez-la avec une branche et vous aurez une hache. ' +
+        'Vous n\'arrivez pas à attraper un lièvre ? Essayez de fabriquer un arc. C\'est fait ? Allez chasser. ' +
+        'N\'oubliez pas un feu de camp dans une plaine c\'est bien, mais un toit au-dessus de votre tête c\'est mieux.</p>',
         imgClass: 'survive-about',
         collapsed: true,
         anyOneOpened: false
@@ -77,12 +77,12 @@
       {
         title: 'Fabrication',
         subTitle: 'Construisez et fabriquez',
-        ingress: '<p>From a shelter to a castle. You are free to build everywhere you desire. ' +
-        'Dozens of materials of any kind, hundreds of schemes and crafting...</p>',
-        text: '<p>From a shelter to a castle. You are free to build everywhere you desire. ' +
-        'Dozens of materials of any kind, hundreds of schemes and crafting chains. ' +
-        'Gathering, husbandry, animal breeding, logging.' +
-        'Terraforming, planting, road building and water canalizing.</p>',
+        ingress: '<p>De l\'abri au château. Vous êtes libre de construire où bon vous semble. ' +
+        'Des dizaines de matériaux de toutes sortes, des centaines de rêcettes de fabrication et de construction...</p>',
+        text: '<p>De l\'abri au château. Vous êtes libre de construire où bon vous semble. ' +
+        'Des dizaines de matériaux de toutes sortes, des centaines de projets et de chaînes de créations. ' +
+        'Récolte, agriculture, élevage, exploitation forestière.' +
+        'Terra-formation, plantation, construction de routes et canalisation d\'eau.</p>',
         imgClass: 'create-about',
         collapsed: true,
         anyOneOpened: false
@@ -90,14 +90,14 @@
       {
         title: 'Combats',
         subTitle: 'Combattez et remportez',
-        ingress: '<p>Dozens of types of weapons and armor along with different ways to use them, ' +
-        'form a unique Wild Terra\'s combat system. You don\'t have to be a high level player to fight and win. ' +
-        'Even newbies have chances...</p>',
-        text: '<p>Dozens of types of weapons and armor along with different ways to use them, ' +
-        'form a unique Wild Terra\'s combat system. You don\'t have to be a high level player to fight and win. ' +
-        'Even newbies have chances to defeat experienced veterans. Your personal skill that\'s what really matters in combat.' +
-        'From local PvP to global battles. Build a catapult and destroy enemy\'s castle!' +
-        'Are you a pacifist? Then we have a place for you too, with indestructible buildings and no loot drop after death.</p>',
+        ingress: '<p>Des dizaines de type d\'arme et armure et différentes façons de les utiliser, ' +
+        'dans un système de combat unique à Wild Terra. Vous n\'avez pas besoin d\'être un joueur expérimenté pour combatre et vaincre. ' +
+        'Même les nouveaux ont la possibilité...</p>',
+        text: '<p>Des dizaines de type d\'arme et armure et différentes façons de les utiliser, ' +
+        'dans un système de combat unique à Wild Terra. Vous n\'avez pas besoin d\'être un joueur expérimenté pour combatre et vaincre. ' +
+        'Même les nouveaux ont la possibilité de défaire des vétérans. Seul vos compétences personelles prime dans un combat.' +
+        'Du JcJ local aux batailles générales. Detruisez les châteaux ennemies avec vos catapultes !' +
+        'Vous êtes pacifique ? Il y a de la place pour vous, avec des bâtiments indestructible et sans perte de l\'équipement après la mort.</p>',
         imgClass: 'fight-about',
         collapsed: true,
         anyOneOpened: false
@@ -214,9 +214,9 @@
   "customScreen": {
     "backButton": "Retour sur le site",
     "contents": {
-      "thanks": "<h1>Thank you for your purchase!</h1>" +
-      "<p class='text-justify'>The letter with your key was sent to the specified email address. " +
-      "If you use Gmail service, you can find our letter in an additional category Promotions.</p>"
+      "thanks": "<h1>Merci de votre achat !</h1>" +
+      "<p class='text-justify'>Un message avec votre clé à été envoyé à l'adresse mail spécifiée. " +
+      "Si vous utilisez les services de Gmail, vous trouverez le message dans la catégorie Promotions.</p>"
     }
   },
   "faqScreen": {
@@ -224,67 +224,67 @@
     "questions": [
       {
         title: 'Qu\'est ce que "Wild Terra"?',
-        content: '<span><p>It is a hybrid of action-RPG and sandbox with building, ' +
-        'crafting, gathering, farming and land claiming elements. ' +
-        'There are no NPCs in the game, so the only way to get something is to create it by yourself or buy it from other players... ' +
-        'or take it with brutal force. However we understand that not every one have enough time to "live" in the game ' +
-        'doing everything by themselves that is why all game processes are expedited to make game a little bit easier.</p>' +
-        '<p>We can say this about your character progress as well. ' +
-        'It is very boring to level up your character to XX-level just to get a good sword and start to fight. ' +
-        'There will be levels however, but they will only grant you small additional benefits in combat, not total domination.</p>' +
+        content: '<span><p>C\'est un hybride entre action-RPG et bac à sable avec construction, ' +
+        'fabrication, récolte, agriculture et la possession de terres. ' +
+        'Il n\'a pas de PNJ dans le jeu, le seul moyen d\'obtenir quelque chose est de le faire vous même ou l\'acheter à un autre joueur... ' +
+        'ou le prendre par la force. Cependant nous comprenons que tous le monde n\'a pas suffisament de temps pour "vivre" dans le jeu et ' +
+        'de tout faire par eux-même, c\'est pourquoi les processus du jeu son plus rapide pour rendre le jeu plus facile.</p>' +
+        '<p>Nous pouvons aussi dire qu\'il y a un système de progression des personnages. ' +
+        'C\'est très ennuyeux demonter son personnage au niveau X seulement pour avoir une bonne épée et commencer à se battre. ' +
+        'Il y aura des niveaux mais il ne donnerons que de petits bénéfices en combat et non pas une domination totale.</p>' +
         '</span>',
         collapsed: false
       },
       {
         title: 'Il y à t\'il un JcJ ?',
-        content: '<span><p>Yes, you are free to attack and be attacked everywhere.' +
-        'But we already have different servers: with free PvP and PvE only. And PvP also means that' +
-        'all buildings can be destroyed and you drop all you have in an inventory after death. '+
-        'We believe that players will unite in tribes and kingdoms in the future and rule the world as they want' +
-        'However, there will be safe zones with no loot drop or chance of being attacked. ' +
-        'But for now we need to test and balance PvP to make it perfect.</p>' +
-        '<p>Those who can use benefits of their gear, landscape, perks and skills will be the winners' +
-        ' This concept we keep in mind while balancing PvP.' +
-        'For example: a skilled archer in light armor can beat a heavily armored knight ' +
-        'if he uses all his perks and skills, along with taking advantage of his position.</p>' +
-        '<p>The only thing that matters in PvP is your personal skill, and not ' +
-        '"lvl 80 mega-sword enchanted for 100500% crit chance" ☺.</p></span>',
+        content: '<span><p>Oui, vous êtes libre d\'attaquer ou d\'être attaquer partout.' +
+        'Nous avons différent serveurs: avec JcJ actif et JcE seulement. Et le JcJ veut aussi dire que' +
+        'tous les bâtiments peuvent être détruit et vous jeter au sol tout votre inventaire à votre mort. '+
+        'Nous espérons que les joueurs se formerons en tribus et royaumes dans le future et gouvernerons le monde comme ils l\'entendent.' +
+        'Il y aura cependant des endroits protégés sans avoir de chance d\'être attaqué ou de perdre son équipement. ' +
+        'Pour le moment nous avons besoin de tester le système de combats et de l\'équilibrer pour le rendre parfait.</p>' +
+        '<p>Ceux qui prendrons avantage de leurs équipements, terres, avantages et compétences serons les vainqueurs' +
+        ' Nous gardons ce concept lors de l\'équilibrage.' +
+        'Par example: un archer doué avec une armure legère peut battre un chevalier en armure ' +
+        'si il utilise ses compétences, ses avantages et de prendre avantage de sa position.</p>' +
+        '<p>La seule chose qui prime en JcJ est votre capacité et non ' +
+        '"la Mega épée of the doom niveau 80 enchanté avec 100500% de chance de coups critique" ☺.</p></span>',
         collapsed: true
       },
       {
         title: 'Quel est la date de sortie ?',
-        content: '<span><p>You can start playing alfa right now if you get early access bundle.</p>' +
-        '<p>We plan to finish working on Wild Terra in the end of 2015, but that doesn\'t mean that the game will have it\'s final look. ' +
-        'We will continue to develop new game features, expand the world and fill it with new habitants.</p></span>',
+        content: '<span><p>Vous pouvez jouer en version alpha dès maintenant si vous avez pack d\'accès anticipé.</p>' +
+        '<p>Nous pensons de finir de travailler sur Wild Terra fin 2015, mais cela ne veut pas dire que le jeu aura sa forme finale. ' +
+        'Nous continuerons de développer les mécanique de jeu, d\'étendre le monde et de le remplir de nouveaux habitants.</p></span>',
         collapsed: true
       },
       {
-        title: 'Quelle sera la taille des mon dans Wild Terra?',
-        content: '<span><p>We have to say that current game world is relatively big. ' +
-        'If you make a screenshot of it you will get a 65 536x32 768 pixels photo, which is about ' +
-        '1200 game windows, if you count in 22" monitors. ' +
-        'However, we plan to create hundreds of new fragments like this one and ' +
-        'there won\'t be borders between them. New world tiles will be added later with world population growth. </p></span>',
+        title: 'Quelle sera la taille des mondes dans Wild Terra?',
+        content: '<span><p>Le monde actuel est relativement grand. ' +
+        'Si vous en faite une capture d\'écran, vous aurez une photo de 65536x32768 pixels, ce qui fait ' +
+        'environ 1200 fênetre de jeu, sur un écran 22 pouces. ' +
+        'Cependant, notre objectifs est de rajouter des centaines de nouveau fragment comme celui ci ' +
+        ' sans délimitation entre eux. De nouveaux morceaux de monde serons ajoutés au fur et à mesure que la population grandis. </p></span>',
         collapsed: true
       },
       {
-        title: 'Qu\'avez vous déja mis dans le jeu ?',
-        content: '<span><p>Players find our game very interesting to play, even on such early stages of development.</p>' +
-        '<p>All basic mechanics are working: gathering, farming, hunting, mining, building, crafting, cooking etc.</p>' +
-        '<p>Crafting chains, building schemes and new items are added regularly to improve the game. ' +
-        'Stone and iron weapons and tools, leather armor, mining and smelting. ' +
-        'You can plant trees, cultivate your land, build stone and wooden houses, breed animals. </p>' +
-        '<p>PvP, buildings destruction, fences, gates, boxes, chests, housing. ' +
-        'You can claim your land and settle there or travel around the world and search for treasures and new schemes.' +
-        'All the features are available to you in early access right now. </p></span>',
+        title: 'Qu\'avez vous déja implémenté dans le jeu ?',
+        content: '<span><p>Les joueurs trouvent notre jeu très interessant à jouer malgrés le niveau de développement actuel.</p>' +
+        '<p>Toutes les mécaniques de bases onctionnent: récolte, agriculture, châsse, minage, fabrication, construction, cuisine, etc...</p>' +
+        '<p>Des recettes de fabrications et de constructions ainsi que de nouveaux objets sont ajoutés régulièrement pour améliorer le jeu. ' +
+        'Armes et outils en pierre et en fer, armure en cuir, minage et fonderie. ' +
+        'Vous pouvez planter des arbres, cultiver vos terres, construire des maisons en bois et en pierre et de l\'élevages. </p>' +
+        '<p>Jcj, destruction de bâtiments, barrières, portes, caisses, coffres et logement. ' +
+        'Vous pouvez revendiquer des terres et vous installer ou alors parcourir le monde et chercher des trésors ou de nouveaux plans.' +
+        'Tout ceci est disponible pour vous en accès anticipé maintenant. </p></span>',
         collapsed: true
       },
       {
         title: 'Quel est le matériel requis ?',
-        content: '<span><p>On the current stage of development you need: Intel core i5 processor or higher, ' +
-        '4GB RAM or higher, 256mb video card or higher, 1280x800 screen resolution or higher, ' +
-        '5MB per second or higher, internet connection for comfort playing. ' +
-        'The game is available on Microsoft, Mac OS and Linux. We plan to make iOS and Android versions later.</p></span>',
+        content: '<span><p>Pour la version actuel vous avez besoin de: Processeur Intel core i5 ou plus, ' +
+        '4GB de RAM ou plus, une carte graphique de 256mb ou plus, une résolution de 1280x800 ou plus, ' +
+        'Une connexion internet de 5M ou plus pour jouer confortablement. ' +
+        'Le jeu est disponible pour Microsoft, Mac OS et Linux. Nous prévoyons des versions sur iOS et Android.</p></span>',
         collapsed: true
       }
     ]
@@ -305,20 +305,20 @@
     '  </div>' +
     '    <div class="col-xs-9">' +
     '      <h2>&nbsp;</h2>' +
-    '      <p>   - Any questions about the game.</p>' +
-    '      <p>   - For press and advertisement suggestions.</p>' +
-    '      <p>   - To join our team.</p>' +
-    '      <p>   - Partnership and sales questions.</p>' +
+    '      <p>   - Pour toutes questions à propos du jeu.</p>' +
+    '      <p>   - Pour la presse et les suggestions de publicités.</p>' +
+    '      <p>   - Pour rejoindre notre équipe.</p>' +
+    '      <p>   - Partenariats et questions de vente</p>' +
     '    </div>',
     "ratingImg": '<div><img src="../img/rating-16.jpg" title="Mature 16+ Violence"/> ' +
     '<a href="https://mixpanel.com/f/partner"><img src="//cdn.mxpnl.com/site_media/images/partner/badge_light.png" alt="Mobile Analytics" /></a></div>',
     "juvtyLink": "http://www.juvty.com",
-    "terms": 'Disclaimer',
-    "footerLinks": '<a href="http://files.playwildterra.com/press/Press_kit_ENG.zip">Press-kit</a> <a href="http://files.playwildterra.com">Download client</a>'
+    "terms": 'Avertissement',
+    "footerLinks": '<a href="http://files.playwildterra.com/press/Press_kit_ENG.zip">Kit de presse</a> <a href="http://files.playwildterra.com">Télécharger le client</a>'
   },
   "terms": {
-    "title": "Disclaimer",
-    "content" : "<h4>Disclaimer</h4>" +
+    "title": "Avertissement",
+    "content" : "<h4>Avertissement</h4>" +
     "<p>Juvty Worlds Ltd. named further \"Administration\" publishes the present agreement defining an order of provision of the simple non-exclusive license for the right of use of the computer program of \"Wild Terra\" which is the public service agreement (official proposal) to any interested person concordant with conditions of the present agreement and named further \"User\".</p>" +
     "<h4>Terms and definitions</h4>" +
     "</p>Administration – Juvty Worlds Ltd., being the owner of exclusive property rights on the computer program of \"Wild Terra\"." +

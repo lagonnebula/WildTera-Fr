@@ -7,7 +7,7 @@ module.exports = {
             error: 'Erreur',
             "testServerWarning": "Vous êtes dans la zone des serveurs de test. " +
             "Un compte différent est nécessaire pour jouer. Les clés Early-Access ne marche pas pour cette zone.",
-            "testServerAd": "Vous aimez notre projet ? Vous voulez jouer avec toutes les recettes ? Supportez-nous !",
+            "testServerAd": "Vous aimez notre projet ? Vous voulez jouer avec toutes les rêcettes ? Supportez-nous !",
             "testServerBuy": "Achetez une clé",
             "testServerBuyLink": "http://www.playwildterra.com/#showCaseScreen",
             messages: {
@@ -80,12 +80,12 @@ module.exports = {
                 },
                 Test: {
                     name: 'Test',
-                    description: 'Serveur de test. La vie et l\'endurance ne sont pas consommés. Toutes les recettes et batiments disponible instantanément. ' +
+                    description: 'Serveur de test. La vie et l\'endurance ne sont pas consommés. Toutes les rêcettes et batiments disponible instantanément. ' +
                     'Production plus rapide.'
                 },
                 DevAlnilam: {
                     name: 'Hardcore',
-                    description: 'Pour les vrai fan de difficultés. Vous pouvez construire et fabriquer sans avoir à trouver les recettes. ' +
+                    description: 'Pour les vrai fan de difficultés. Vous pouvez construire et fabriquer sans avoir à trouver les rêcettes. ' +
                     'Les animaux sont plus puissant mais plus rare. Les ressources du monde sont moindre et plus longue à pousser.'
                 },
                 DevBellatrix: {
